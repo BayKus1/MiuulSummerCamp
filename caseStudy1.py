@@ -168,7 +168,6 @@ muhendislik + tip
 # Zip kullanarak ders bilgilerini bastırınız.
 ###############################################
 
-
 ders_kodu = ["CMP1005", "PSY1001", "HUK1005", "SEN2204"]
 kredi = [3, 4, 2, 4]
 kontenjan = [30, 75, 150, 25]
